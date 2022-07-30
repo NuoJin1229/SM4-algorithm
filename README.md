@@ -12,8 +12,10 @@
 > - 该课程小组的全体组员为：**宋诺金**、**王子兴**、**金周泉**、隋佩航、王超然。（字体加粗者为本课程的小组成员）
 
 ## 运行指导 
+方法1：点击[SM4.exe](SM4.exe)运行；
 
-在Visual Studio 2022中打开[SM4.sln](SM4.sln)，先Ctrl+Shift+B后Ctrl+F5。
+方法2：在Visual Studio 2022中打开[SM4.sln](SM4.sln)，先Ctrl+Shift+B后Ctrl+F5。
+
 
 ## 代码运行全过程截图
 ![](运行结果.png)
